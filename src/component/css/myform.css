@@ -1,0 +1,15 @@
+.form-input
+{
+    padding-left: 15px;
+}
+.form label{
+    margin-top: 10px;
+}
+.custom-btn-div
+{
+    
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-left: 20px;
+}
